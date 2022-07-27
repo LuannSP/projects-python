@@ -4,7 +4,7 @@
 
 **1.**  Projeto de automação de tarefas usando a biblioteca pyautogui.
 
-**2.**
+**2.**  Projeto de análise de uma base de dados, relacionamento das colunas em prol de um estudo de caso, com exibição de gráficos com a biblioteca plotly.
 
 **3.**
 
