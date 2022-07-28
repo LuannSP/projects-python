@@ -6,7 +6,7 @@
 
 **2.**  Projeto de análise de uma base de dados, relacionamento das colunas em prol de um estudo de caso, com exibição de gráficos com a biblioteca plotly.
 
-**3.**
+**3.**  Projeto de web scraping com a biblioteca selenium e pandas, com atualização e exportação de uma base de dados em excel.
 
 **4.**
 
