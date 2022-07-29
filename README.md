@@ -8,6 +8,6 @@
 
 **3.**  Projeto de web scraping com a biblioteca selenium e pandas, com atualização e exportação de uma base de dados em excel.
 
-**4.**
+**4.**  Projeto de ciência de dados com inteligência artificial, com teste em regressão linear, e árvore de decisão.
 
 Créditos e agradecimentos ao [Lira da Hashtag](https://www.youtube.com/c/HashtagPrograma%C3%A7%C3%A3o/featured), pelo material de estudo.
